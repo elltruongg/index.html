@@ -42,7 +42,7 @@
 .potato3{
   grid-column-start:2;
   grid-column-end:3;
-  background-color: black;
+  background-color: white;
   height: 50px;
 }
 
